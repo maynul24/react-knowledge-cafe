@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "coverImage": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "title": "Exploring the Future of AI",
+      "author": "Jane Doe",
+      "authorImage": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6",
+      "postedDate": "2024-09-01",
+      "readingTime": "8 min",
+      "hashtag": ["#ArtificialIntelligence", "#FutureTech"]
+    },
+    {
+      "id": "002",
+      "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "The Hidden Gems of Remote Work",
+      "author": "John Smith",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "postedDate": "2024-08-25",
+      "readingTime": "6 min",
+      "hashtag": ["#RemoteWork", "#WorkLifeBalance"]
+    },
+    {
+      "id": "003",
+      "coverImage": "https://images.unsplash.com/photo-1611095969290-5e6710b768a3",
+      "title": "Sustainable Living: Tips for a Greener Home",
+      "author": "Emily Clark",
+      "authorImage": "https://images.unsplash.com/photo-1573497019414-ec77e5fa6f4b",
+      "postedDate": "2024-08-30",
+      "readingTime": "7 min",
+      "hashtag": ["#Sustainability", "#EcoFriendly"]
+    },
+    {
+      "id": "004",
+      "coverImage": "https://images.unsplash.com/photo-1549187774-b4e9b0445b06",
+      "title": "Mastering the Art of Photography",
+      "author": "Michael Johnson",
+      "authorImage": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+      "postedDate": "2024-09-03",
+      "readingTime": "10 min",
+      "hashtag": ["#Photography", "#ArtisticExpression"]
+    },
+    {
+      "id": "005",
+      "coverImage": "https://images.unsplash.com/photo-1612178991924-0ee81bc4c7c7",
+      "title": "The Rise of Plant-Based Diets",
+      "author": "Sarah Lee",
+      "authorImage": "https://images.unsplash.com/photo-1524503033411-c9566986fc8f",
+      "postedDate": "2024-08-20",
+      "readingTime": "5 min",
+      "hashtag": ["#PlantBased", "#HealthyLiving"]
+    }
+  ]
+  
