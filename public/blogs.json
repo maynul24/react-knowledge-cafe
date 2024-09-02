@@ -6,7 +6,7 @@
       "author": "Jane Doe",
       "authorImage": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6",
       "postedDate": "2024-09-01",
-      "readingTime": "8 min",
+      "readingTime": "8",
       "hashtag": ["#ArtificialIntelligence", "#FutureTech"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "John Smith",
       "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
       "postedDate": "2024-08-25",
-      "readingTime": "6 min",
+      "readingTime": "6",
       "hashtag": ["#RemoteWork", "#WorkLifeBalance"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Emily Clark",
       "authorImage": "https://images.unsplash.com/photo-1573497019414-ec77e5fa6f4b",
       "postedDate": "2024-08-30",
-      "readingTime": "7 min",
+      "readingTime": "7",
       "hashtag": ["#Sustainability", "#EcoFriendly"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Michael Johnson",
       "authorImage": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
       "postedDate": "2024-09-03",
-      "readingTime": "10 min",
+      "readingTime": "10",
       "hashtag": ["#Photography", "#ArtisticExpression"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Sarah Lee",
       "authorImage": "https://images.unsplash.com/photo-1524503033411-c9566986fc8f",
       "postedDate": "2024-08-20",
-      "readingTime": "5 min",
+      "readingTime": "5",
       "hashtag": ["#PlantBased", "#HealthyLiving"]
     }
   ]

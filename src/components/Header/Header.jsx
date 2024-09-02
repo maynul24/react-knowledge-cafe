@@ -1,5 +1,5 @@
 
-function Header(props) {
+const Header = () => {
     return (
         <div>
              <h1 className='text-4xl font-bold'>React Knowledge Cate</h1>
