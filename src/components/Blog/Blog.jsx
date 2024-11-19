@@ -1,7 +1,8 @@
 import React from 'react';
 import { BsBookmark } from "react-icons/bs";
+import PropTypes from 'prop-types';
 
-const Blog = ({blog}) => {
+const Blog = ({blog, handleAddToBookmark}) => {
     const {title,coverImage, author, authorImage, readingTime, postedDate,hashtag} = blog;
     return (
         <div className='mb-16 mt-16'>
@@ -16,7 +17,10 @@ const Blog = ({blog}) => {
                 </div>
                 <div className='flex items-center gap-4'>
                     <p>{readingTime} min read</p>
-                    <button><BsBookmark></BsBookmark></button>
+                    <button 
+                    onClick={()=>handleAddToBookmark(blog)}
+                    ><BsBookmark></BsBookmark>
+                    </button>
                 </div>
             </div>
             <h2 className="text-4xl">{title}</h2>
@@ -28,5 +32,11 @@ const Blog = ({blog}) => {
         </div>
     );
 };
+
+Blog.propTypes = {
+    blog: PropTypes.object.isRequired,
+    handleAddToBookmark: PropTypes.func
+        
+    }
 
 export default Blog;
